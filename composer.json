@@ -1,8 +1,8 @@
 {
-    "name": "next-sentence/afterbuy-sdk",
-    "description": "The AfterbuySDK provides to interact with the Afterbuy XML API",
+    "name": "ahhussein/afterbuy-sdk",
+    "description": "Fork of AfterbuySDK",
     "keywords":     ["afterbuy"],
-    "homepage": "http://github.com/next-sentence/afterbuy-sdk",
+    "homepage": "https://github.com/ahhussein/afterbuy-sdk.git",
     "license": "MIT",
     "authors": [
         {

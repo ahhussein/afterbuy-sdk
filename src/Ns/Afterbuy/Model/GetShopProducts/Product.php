@@ -39,6 +39,13 @@ class Product extends AbstractModel
      */
     protected $ean;
 
+	/**
+     * @Serializer\Type("integer")
+     * @Serializer\SerializedName("EnergyClass")
+     * @var int
+     */
+    protected $energyClass;
+
     /**
      * @Serializer\Type("string")
      * @Serializer\SerializedName("Name")
