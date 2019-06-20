@@ -4,12 +4,6 @@
     "keywords":     ["afterbuy"],
     "homepage": "https://github.com/ahhussein/afterbuy-sdk.git",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Petru Binzari",
-            "email": "pekya1@gmail.com"
-        }
-    ],
     "require": {
         "guzzlehttp/guzzle": "~6.0",
         "jms/serializer": "^1.1",
