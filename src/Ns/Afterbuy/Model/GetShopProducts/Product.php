@@ -46,6 +46,14 @@ class Product extends AbstractModel
      */
     protected $energyClass;
 
+	/**
+     * @Serializer\Type("string")
+     * @Serializer\SerializedName("EnergyClassPictureUrl")
+     * @var string
+     */
+    protected $energyPictureUrl;
+
+
     /**
      * @Serializer\Type("string")
      * @Serializer\SerializedName("Name")
